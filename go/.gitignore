@@ -1,0 +1,6 @@
+bin
+pkg
+src/*.com*
+src/*.org*
+/**/debug.test
+
